@@ -22,7 +22,7 @@ spec:
       values: |
         replicaCount: 1
         image:
-          tag: 6.0.3
+          tag: 6.0.9
         ui:
-          color: "#34577c"
-          message: "Hello!"
+          color: "#24577c"
+          message: "Good!"
